@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust, C++, Vue, WebRTC**
 
-- 👨‍💻 Some of my projects are available at [femisd.co.uk](femisd.co.uk)
+- 👨‍💻 Some of my projects are available at [femisd.co.uk](https://www.femisd.co.uk/)
 
 - 💬 Ask me about **Java, React, Typescript, MongoDB, Node**
 
