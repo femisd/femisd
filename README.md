@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Femi</h1>
 <h3 align="center">A Software Engineer living in London.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=femisd&show_icons=true&locale=en&layout=compact" alt="femisd" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=femisd&show_icons=true&locale=en" alt="femisd" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=femisd&show_icons=true&locale=en&layout=compact" alt="femisd" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=femisd&show_icons=true&locale=en" alt="femisd" /></p>
 
 - 🌱 I’m currently learning **Rust, C++, Vue, WebRTC**
 
