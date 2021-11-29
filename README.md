@@ -5,11 +5,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=femisd&show_icons=true&locale=en" alt="femisd" /></p>
 
-- 🌱 I’m currently learning **Rust, C++, Vue, WebRTC**
+- 🌱 I’m currently learning **Rust, Vue, WebRTC**
 
 - 👨‍💻 Some of my projects are available at [femisd.co.uk](https://www.femisd.co.uk/)
 
-- 💬 Ask me about **Java, React, Typescript, MongoDB, Node**
+- 💬 Ask me about **Java, C#, C++, React, Typescript, MongoDB, Node**
 
 - 📫 How to reach me **femisd@gmail.com**
 
